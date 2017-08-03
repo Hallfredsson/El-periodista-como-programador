@@ -1,1 +1,1 @@
-# Diferentes posibilidades como estilo del proyecto
+# Aquí se recoge el contenido javascript del proyecto
