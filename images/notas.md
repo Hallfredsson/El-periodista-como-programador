@@ -1,1 +1,5 @@
-Archivos de imagen del proyecto
+# Archivos de imagen del proyecto
+
+## JPG
+
+## PNG
